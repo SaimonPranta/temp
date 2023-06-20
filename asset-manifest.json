@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f096415e.css",
+    "main.js": "/static/js/main.94858a6f.js",
+    "static/js/498.bcd2eee7.chunk.js": "/static/js/498.bcd2eee7.chunk.js",
+    "static/js/703.71d97bb0.chunk.js": "/static/js/703.71d97bb0.chunk.js",
+    "static/js/513.d335871c.chunk.js": "/static/js/513.d335871c.chunk.js",
+    "static/js/787.44a753aa.chunk.js": "/static/js/787.44a753aa.chunk.js",
+    "static/media/ladingLogo.gif": "/static/media/ladingLogo.65c4c39d998b0a09ed93.gif",
+    "static/media/mainLogo.png": "/static/media/mainLogo.2d3e2d21ef3eb3596ea2.png",
+    "static/media/slideImg.png": "/static/media/slideImg.f55ec7179a0af7ca048e.png",
+    "static/media/3928054.jpg": "/static/media/3928054.45086ecf1ec2beaea443.jpg",
+    "static/media/Dutch-Bangla-Bank-logo-JAN-17-2201171056-2203070612-removebg-preview (5).png": "/static/media/Dutch-Bangla-Bank-logo-JAN-17-2201171056-2203070612-removebg-preview (5).5c72596a04b50c925d76.png",
+    "static/media/513df212-048b-4ed8-9e00-3db27164241f.png": "/static/media/513df212-048b-4ed8-9e00-3db27164241f.f098ad8720c98b773aff.png",
+    "static/media/162a7cf8-e9d7-4297-809d-68cfb92a4993.png": "/static/media/162a7cf8-e9d7-4297-809d-68cfb92a4993.ae249092e1ec125d37b5.png",
+    "static/media/21bc8d04-e3c0-4e42-a84f-097506424fb2.png": "/static/media/21bc8d04-e3c0-4e42-a84f-097506424fb2.77446df8e7659a3c044c.png",
+    "static/media/e5c45443-9535-42fa-89a0-ab90f53ca937.png": "/static/media/e5c45443-9535-42fa-89a0-ab90f53ca937.5590a4f4c7ad981e6279.png",
+    "static/media/avatar1.jpg": "/static/media/avatar1.e281fae56da1598fd679.jpg",
+    "static/media/no-cart-transformed.png": "/static/media/no-cart-transformed.b4abd8d94c980fa1c282.png",
+    "static/media/beea236c-559f-41f8-9ec2-17c4d47be899.png": "/static/media/beea236c-559f-41f8-9ec2-17c4d47be899.5bd47017ed36aefe42a8.png",
+    "static/media/a213d8c9-43dc-43ea-8fe3-d302bc74ba0a.png": "/static/media/a213d8c9-43dc-43ea-8fe3-d302bc74ba0a.b47c00c87d20f82f4b06.png",
+    "static/media/bkash-removebg-preview.png": "/static/media/bkash-removebg-preview.f4e146f63a6945dca2b6.png",
+    "static/media/useravatar.jpg": "/static/media/useravatar.32de9946fde6bd212bd3.jpg",
+    "static/media/Untitled_2527_x_2527_px_3-removebg-preview.png": "/static/media/Untitled_2527_x_2527_px_3-removebg-preview.add7112f3bad9223d5a9.png",
+    "static/media/roket-removebg-preview.png": "/static/media/roket-removebg-preview.7155cf42f351f4733a03.png",
+    "static/media/download__3_-removebg-preview.png": "/static/media/download__3_-removebg-preview.56f731e308a429d4126f.png",
+    "static/media/tap-removebg-preview.png": "/static/media/tap-removebg-preview.fd4261b64ab4a3bd34d7.png",
+    "index.html": "/index.html",
+    "main.f096415e.css.map": "/static/css/main.f096415e.css.map",
+    "main.94858a6f.js.map": "/static/js/main.94858a6f.js.map",
+    "498.bcd2eee7.chunk.js.map": "/static/js/498.bcd2eee7.chunk.js.map",
+    "703.71d97bb0.chunk.js.map": "/static/js/703.71d97bb0.chunk.js.map",
+    "513.d335871c.chunk.js.map": "/static/js/513.d335871c.chunk.js.map",
+    "787.44a753aa.chunk.js.map": "/static/js/787.44a753aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f096415e.css",
+    "static/js/main.94858a6f.js"
+  ]
+}
